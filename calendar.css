@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    margin-top: 100px;
+    text-align: center;
+    background-image: url("home_2.jpg");    
+}
+
+h1{
+font-style:italic;
+font-size: 80px;
+color: gold;
+border-collapse: collapse;
+border: 5px solid goldenrod;
+
+
+}
+.table{
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 20%;
+    color:rgb(255, 255, 255);
+    line-height: 35px;
+    background-image: url("wal3.jpeg");
+    
+    
+ 
+}
+
+
+.table1{ 
+    
+    position: absolute;
+    top: 39px;
+    left: 20%;
+    margin-top: 182px;
+    line-height: 35px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 23px;
+    color:rgb(254, 255, 254);
+    background-size: contain;
+    background-image: url("wal3.jpeg");
+  
+
+}
+
+.table2{
+    position: absolute;
+    top: 39px;
+    left: 40%;
+    margin-top: 182px;
+    line-height: 35px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 39px;
+    color:rgb(255, 255, 255);
+    background-size: contain;
+    background-image: url("wal3.jpeg");
+    
+ 
+}
+
+.table3{ 
+    
+    position: absolute;
+    top: 39px;
+    left: 63%;
+    margin-top: 182px;
+    line-height: 30px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 5px;
+    color:rgb(254, 254, 254);
+    background-size: contain;
+    background-image: url("wal3.jpeg");
+  
+
+}
+
+.table4{
+    position: absolute;
+    top: 39px;
+    left: 84%;
+    margin-top: 182px;
+    line-height: 35px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 5px;
+    color:rgb(247, 247, 247);
+    background-size: contain;
+  
+    background-image: url("wal3.jpeg");
+    
+ 
+}
+
+.table5{ 
+    
+
+    left: 84%;
+    margin-top: 25px;
+    line-height: 35px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 10px;
+    color:rgb(255, 255, 255);
+    background-size: contain;
+   
+    background-image: url("wal3.jpeg");
+  
+
+}
+
+.table6{ 
+    
+    position: absolute;
+    left: 20%;
+    top: 498px;
+    line-height: 30px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 23px;
+    color:rgb(255, 255, 255);
+    background-size: contain;
+    
+    background-image: url("wal3.jpeg");
+  
+  
+
+}
+.table7{ 
+    
+    position: absolute;
+    top: 498px;
+    left: 40%;
+    line-height: 35px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 39px;
+    color:rgb(255, 255, 255);
+    background-size: contain;
+    
+    background-image: url("wal3.jpeg");
+    
+
+}
+.table8{ 
+    
+
+    position: absolute;
+    top: 498px;
+    left: 63%;
+    line-height: 35px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 5px;
+    color:rgb(253, 253, 253);
+    background-size: contain;
+    
+    background-image: url("wal3.jpeg");
+  
+
+}
+.table9{ 
+    
+
+    position: absolute;
+    top: 498px;
+    left: 84%;
+    line-height: 35px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    margin-left: 5px;
+    color:rgb(255, 255, 255);
+    background-size: contain;
+    
+    background-image: url("wal3.jpeg")
+  
+
+}
+.table10{ 
+    
+    position: absolute;
+    left: 25%;
+    margin-top: 20px;
+    line-height: 35px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    color:rgb(255, 255, 255);
+    background-size: contain;
+ 
+    background-image: url("wal3.jpeg");
+  
+
+}
+.table11{ 
+    
+    position: absolute;
+    left: 55%;
+    margin-top: 20px;
+    line-height: 30px;
+    width: 20%;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    color:rgb(248, 248, 248);
+    background-size: contain;
+    background-image: url("wal3.jpeg");
+  
+
+}
+
+
+.detel{
+
+        text-align: center;
+        background-color: black;
+        font-style: italic;
+    }
+
+
+
